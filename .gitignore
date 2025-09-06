@@ -1,0 +1,31 @@
+# Node modules (if you use Node.js or npm)
+node_modules/
+
+# Python cache (if you used python server)
+__pycache__/
+*.py[cod]
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build / output directories
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment files (if any)
+.env
